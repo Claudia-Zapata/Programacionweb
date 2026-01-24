@@ -12,11 +12,6 @@ Editado desde GitHub web interface
 
 ## Información del proyecto
 
-HEAD
-Versión desarrollada en rama main
-Versión desarrollada en rama feature
-feature/conflicto-simulado
-
-## Información del proyecto
+Versión desarrollada en rama main  
+Versión desarrollada en rama feature  
 Versión combinada de ambas ramas
-
